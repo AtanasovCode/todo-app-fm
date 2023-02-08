@@ -69,14 +69,15 @@ Error generating stack: `+o.message+`
   background-color: ${e=>e.theme.background};
 `,Km=De.div`
     width: 100vw;
-    height: 220px;
+    height: 350px;
     position: absolute;
     top: 0;
     left: 0;
     overflow: hidden;
 `,Gm=De.div`
-  width: 400px;
+  width: 500px;
   z-index: 3;
+  font-size: 18px;
   padding-top: 20px;
   display: flex;
   flex-direction: column;
@@ -88,11 +89,11 @@ Error generating stack: `+o.message+`
 `,Xm=De.div`
   width: 100%;
   display: flex;
-  padding: 20px 0;
+  padding: 40px 0;
   align-items: center;
   justify-content: space-between;
 `,Zm=De.h1`
-  font-size: 32px;
+  font-size: 34px;
   font-weight: 700;
   color: #fff;
   letter-spacing: 12px;
@@ -102,7 +103,7 @@ Error generating stack: `+o.message+`
   cursor: pointer;
 `,qm=De.div`
   width: 100%;
-  height: 50px;
+  height: 70px;
   padding: 10px;
   display: flex;
   align-items: center;
@@ -136,7 +137,7 @@ Error generating stack: `+o.message+`
   margin-bottom: 30px;
 `,t0=De.div`
   width: 100%;
-  height: 35px;
+  height: 45px;
   padding: 10px;
   display: flex;
   align-items: center;
@@ -187,6 +188,7 @@ Error generating stack: `+o.message+`
   }
 `,o0=De.div`
   width: 100%;
+  height: 70px;
   color: ${e=>e.complete?e.theme.complete:e.theme.font};
   padding: 10px;
   font-size: 13px;
