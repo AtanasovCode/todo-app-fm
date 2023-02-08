@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AtanasovCode/todo-app-fm)
-- Live Site URL: [Add live site URL here](https://todo-app-fm.netlify.app)
+- Solution URL: [GitHub](https://github.com/AtanasovCode/todo-app-fm)
+- Live Site URL: [Netlify](https://fm-task-todo-app.netlify.app/)
 
 
 ### Built with
